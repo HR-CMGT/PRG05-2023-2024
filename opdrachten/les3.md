@@ -34,7 +34,7 @@ Hou rekening met de volgende onderdelen:
 
 ### informatie vanuit de URL doorsturen naar de View
 
-Maak de welkomsttekst op de homepagina persoonlijk door je naam vanuit de url mee te geven aan de View. 
+Maak de welkomsttekst op de homepagina persoonlijk door je naam vanuit de url mee te geven aan de View. De homepagina toont vervolgens Hallo [Jouw naam]
 
 - In je browser voer je straks de volgende URL in: http://127.0.0.1:8000/home/jouw%20naam
 - Je mag gewoon met spaties werken, de browser zal dit omzetten naar %20
