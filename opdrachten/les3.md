@@ -42,5 +42,3 @@ Maak de welkomsttekst op de homepagina persoonlijk door je naam vanuit de url me
 - In de [`HomeController`](https://laravel.com/docs/10.x/controllers) zal je deze informatie als parameter moeten opvangen.
 - Net als in de vorige opdracht kan je de informatie uit de parameter doorsturen naar de View. 
 - Toon de informatie in [`home.blade.php`](https://laravel.com/docs/10.x/blade)
-
-### informatie doorgeven als object (les 4)
