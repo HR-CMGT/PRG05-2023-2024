@@ -1,4 +1,4 @@
-# PRG05-2022-2023
+# Programmeren 5
 
 In dit vak leer je hoe in basis een MVC Framework werkt. De praktijkvoorbeelden worden uitgewerkt in het PHP Framework [Laravel](https://laravel.com/)
 
