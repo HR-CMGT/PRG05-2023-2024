@@ -38,7 +38,7 @@ Maak de welkomsttekst op de homepagina persoonlijk door je naam vanuit de url me
 
 - In je browser voer je straks de volgende URL in: http://127.0.0.1:8000/home/jouw%20naam
 - Je mag gewoon met spaties werken, de browser zal dit omzetten naar %20
-- Zorg er in de route voor dat extra informatie in de URL opgevangen kan worden. https://laravel.com/docs/10.x/routing#route-parameters
+- Zorg er in de route voor dat [extra informatie](https://laravel.com/docs/10.x/routing#route-parameters) in de URL opgevangen kan worden. 
 - In de [`HomeController`](https://laravel.com/docs/10.x/controllers) zal je deze informatie als parameter moeten opvangen.
 - Net als in de vorige opdracht kan je de informatie uit de parameter doorsturen naar de View. 
 - Toon de informatie in [`home.blade.php`](https://laravel.com/docs/10.x/blade)
