@@ -32,11 +32,15 @@ Deze opdracht kan je meteen toepassen in je eigen project of je kunt verder gaan
    ```
    php artisan migrate:status
    ```
- 4. Vul de database met (dummy) data. Dit kan je doen door de database te openen in PHPMyAdmin of door de [database te koppelen aan PHPStorm](https://www.jetbrains.com/help/phpstorm/mariadb.html) en daar de databasetabel te openen. Deze laatste optie heeft voordelen omdat je niet naar de browser hoeft te switchen om de database in te zien. [Een nieuwe rij toevoegen](https://www.jetbrains.com/help/phpstorm/table-editor.html) doe je als volgt. 
-    - Dubbelklik op de naam van de tabel om deze te openen
-    - Druk op het + teken (Add Row) bovenin de balk. (Een nieuwe rij wordt toegevoegd aan de tabel)
-    - Vul de benodigde informatie in (behalve de primairy key)
-    - Druk op CTRL + ENTER (CMD + ENTER voor Mac) om de data definitief toe te voegen.
+ 4. Vul de database met (dummy) data. Dit kan je doen door de database te openen in PHPMyAdmin of door de [database te koppelen aan PHPStorm](https://www.jetbrains.com/help/phpstorm/mariadb.html) en daar de databasetabel te openen. Deze laatste optie heeft voordelen omdat je niet naar de browser hoeft te switchen om de database in te zien. 
+   <img src="../images/phpstorm-database.png" width="40%"/>
+   
+   [Een nieuwe rij toevoegen](https://www.jetbrains.com/help/phpstorm/table-editor.html) doe je als volgt:
+   
+   - Dubbelklik op de naam van de tabel om deze te openen
+   - Druk op het + teken (Add Row) bovenin de balk. (Een nieuwe rij wordt toegevoegd aan de tabel)
+   - Vul de benodigde informatie in (behalve de primairy key)
+   - Druk op CTRL + ENTER (CMD + ENTER voor Mac) om de data definitief toe te voegen.
 
 
 ### informatie doorgeven als object (les 4)
