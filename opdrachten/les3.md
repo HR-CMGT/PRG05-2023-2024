@@ -35,8 +35,11 @@ Maak de welkomsttekst op de homepagina persoonlijk door je naam vanuit de url me
 
 - Beschrijf de werking en de functionaliteit van je applicatie. 
   - Denk in User Stories, taken en stakeholders.
+- Stel de prioriteit vast met de MoSCoW methode. 
+  - Maak het jezelf niet te moeilijk en begin met makkelijke taken. Begin niet met de login, maar volg de praktijkonderdelen uit de lessen. Vertaal bijvoorbeeld eerst [opdracht 1](https://github.com/HR-CMGT/PRG05-2023-2024/edit/main/opdrachten/les3.md#opdracht-1---basisproject-laravel) naar jouw eigen systeem.
+  - Gebruik ter referentie toelichting_praktijkopdracht.pdf
 - Maak hiervan een planning voor de komende weken.
-- Gebruik ter referentie toelichting_praktijkopdracht.pdf
+
 
 
 ## Opdracht 3 - ERD
