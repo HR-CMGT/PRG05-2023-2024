@@ -42,9 +42,15 @@ Deze opdracht kan je meteen toepassen in je eigen project of je kunt verder gaan
    - Vul de benodigde informatie in (behalve de primairy key)
    - Druk op CTRL + ENTER (CMD + ENTER voor Mac) om de data definitief toe te voegen.
 
+## Opdracht 3 - Get data and show models
 
-### informatie doorgeven als object (les 4)
+1. Haal het eerste item uit de database op, op basis van het id met de [`find()`](https://laravel.com/docs/10.x/eloquent#retrieving-single-models) functie in de `show()` functie van de Controller
+2. Stuur het model mee aan de View.
+3. Toon de data van het opgehaalde model in de View
 
-Controller (dummy data)  view
-Controller (model vullen)  view
-Migration  database vullen  controller  view
+**Meerder items tonen**
+
+4. Haal [alle](https://laravel.com/docs/10.x/eloquent#retrieving-models) items op in de `index()` functie van de Controller.
+5. Geef de models mee aan de View.
+6. Gebruik een loop om alle models te tonen in de View.
+
