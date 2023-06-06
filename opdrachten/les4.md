@@ -48,7 +48,7 @@ Deze opdracht kan je meteen toepassen in je eigen project of je kunt verder gaan
 2. Stuur het model mee aan de View.
 3. Toon de data van het opgehaalde model in de View
 
-**Meerder items tonen**
+**Meerdere items tonen**
 
 4. Haal [alle](https://laravel.com/docs/10.x/eloquent#retrieving-models) items op in de `index()` functie van de Controller.
 5. Geef de models mee aan de View.
