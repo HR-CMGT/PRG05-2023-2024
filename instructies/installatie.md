@@ -72,14 +72,5 @@ Als het goed is zie je nu de default startpagina van Laravel.
 
 **Gefeliciteerd, de installatie is geslaagd!**
 
-## Laravel plugin
-
-Tijdens de ontwikkeling van het project is het erg fijn om de **Laravel Idea plugin** te gebruiken. Deze moet je apart installeren in PHPStorm en als student kun je deze gratis gebruiken zolang je een student license hebt.
-
-Om deze te installeren ga je naar de Settings (**PhpStorm | Settings** voor macOS of **File | Settings** voor Windows)
-
-Klik op **Plugins.** Klik in het midden op **Marketplace** en zoek op “_Laravel_”
-
-Klik op Install bij de Laravel Idea plugin.
-
-![plugins](../images/plugins.png)
+## Laravel Idea Plugin
+[Aanvragen licentie voor Laravel Idea plugin](laravelidea.md)
