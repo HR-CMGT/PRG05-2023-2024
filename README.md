@@ -2,6 +2,9 @@
 
 In dit vak leer je hoe in basis een MVC Framework werkt. De praktijkvoorbeelden worden uitgewerkt in het PHP Framework [Laravel](https://laravel.com/)
 
+Voor hulp bij het [installeren](./instructies/installatie.md) of het aanmaken van een eerste [controller en view](./instructies/week2.md), kan je
+terecht bij de [instructies](./instructies).
+
 | Week | Theorie | Praktijk | 
 |------|---------|----------|
 | 1 | Introductie vak.<br> Wat is MVC?<br> Uitleg onderzoeksopdracht | Starten onderzoek verschillende frameworks (Laravel + 2 andere uit de lijst op de volgende slide)<br> 1. inlezen<br> 2. voorselectie maken<br> 3. eigen criteria opstellen (zowel vanuit developer als bedrijf bekeken)<br> 4. te onderzoeken frameworks ook daadwerkelijk installeren,<br>5. eerste paar tutorials uitvoeren om zelf een beeld te kunnen vormen<br> |
@@ -13,3 +16,4 @@ In dit vak leer je hoe in basis een MVC Framework werkt. De praktijkvoorbeelden 
 | 7 | Deployment / OTAP (Ontwikkel Test Acceptatie Productie) | |
 | 8 | Geen Theorie | Inleveren code. Deadline is zondag week 8 23:59 |
 | 9 | Mondelinge toets op afspraak | |
+
