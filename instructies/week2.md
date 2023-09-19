@@ -81,15 +81,18 @@
 
 ## **Add parameter to route**
 
+If you want to pass extra information through a route like: https://localhost:8000/products/macbook, where "macbook" is 
+the extra information you want to pass. You can do this by adding a parameter to the route.
+
 - create route with `{ }` for query string parameters
     ```php
-    Route::get('about-us/{name}', [AboutUsController::class, 'showName']);
+    Route::get('products/{name}', [ProductController::class, 'show']);
     ```
 - Create the method with the parameter with the same parameter name
 
     ```php
-    public function showName($name) {
-            return view('abouts-us.name', compact('name'));
+    public function show($name) {
+            return view('products.show', compact('name'));
         }
     ```
 
